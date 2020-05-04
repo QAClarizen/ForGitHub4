@@ -1,0 +1,7 @@
+type: target-group
+name: ReadUnread547174
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '785334'
