@@ -1,0 +1,7 @@
+type: target-group
+name: Create_New_Reports578209
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820344'
