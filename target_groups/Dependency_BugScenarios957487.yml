@@ -1,0 +1,7 @@
+type: target-group
+name: Dependency_BugScenarios957487
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '805783'
