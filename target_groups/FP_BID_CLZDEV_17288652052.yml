@@ -1,0 +1,7 @@
+type: target-group
+name: FP_BID_CLZDEV_17288652052
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818578'
