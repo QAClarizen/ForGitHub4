@@ -1,0 +1,7 @@
+type: target-group
+name: WarmUp_NewOrg2993482
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '815015'
