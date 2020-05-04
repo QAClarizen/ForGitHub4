@@ -1,0 +1,7 @@
+type: target-group
+name: ChangeType_Authorization60272
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820774'
