@@ -1,0 +1,7 @@
+type: target-group
+name: FP_React_Tree602529
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814932'
