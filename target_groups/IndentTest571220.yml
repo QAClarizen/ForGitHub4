@@ -1,0 +1,7 @@
+type: target-group
+name: IndentTest571220
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808668'
