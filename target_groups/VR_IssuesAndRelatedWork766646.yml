@@ -1,0 +1,7 @@
+type: target-group
+name: VR_IssuesAndRelatedWork766646
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821341'
