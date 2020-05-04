@@ -1,0 +1,7 @@
+type: target-group
+name: aaa_aaa5
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '806656'
