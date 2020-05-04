@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_WI_OutboundCallAction9640
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821673'
