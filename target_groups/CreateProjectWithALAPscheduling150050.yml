@@ -1,0 +1,7 @@
+type: target-group
+name: CreateProjectWithALAPscheduling150050
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819837'
