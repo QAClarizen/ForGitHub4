@@ -1,0 +1,7 @@
+type: target-group
+name: CalendarView_Part2600799
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '810691'
