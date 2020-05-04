@@ -1,0 +1,7 @@
+type: target-group
+name: TeamPanelTest780332
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814556'
