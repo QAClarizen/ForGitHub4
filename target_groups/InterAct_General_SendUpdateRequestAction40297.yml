@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_General_SendUpdateRequestAction40297
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821648'
