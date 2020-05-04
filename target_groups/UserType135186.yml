@@ -1,0 +1,7 @@
+type: target-group
+name: UserType135186
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '806315'
