@@ -1,0 +1,7 @@
+type: target-group
+name: FloatingTask_Chrome676126
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '803689'
