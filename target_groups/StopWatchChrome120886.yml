@@ -1,0 +1,7 @@
+type: target-group
+name: StopWatchChrome120886
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818450'
