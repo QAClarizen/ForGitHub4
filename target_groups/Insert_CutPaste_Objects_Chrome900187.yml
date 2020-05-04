@@ -1,0 +1,7 @@
+type: target-group
+name: Insert_CutPaste_Objects_Chrome900187
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '795441'
