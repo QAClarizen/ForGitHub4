@@ -1,0 +1,7 @@
+type: target-group
+name: PO_Form_BugVerification453152
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820788'
