@@ -1,0 +1,7 @@
+type: target-group
+name: TimeZone_TimeTrackingAndApprovals704544
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819468'
