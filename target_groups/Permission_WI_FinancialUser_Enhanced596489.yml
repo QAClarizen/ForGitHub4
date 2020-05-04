@@ -1,0 +1,7 @@
+type: target-group
+name: Permission_WI_FinancialUser_Enhanced596489
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821580'
