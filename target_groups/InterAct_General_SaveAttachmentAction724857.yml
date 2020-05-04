@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_General_SaveAttachmentAction724857
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808019'
