@@ -1,0 +1,7 @@
+type: target-group
+name: CreateProjectFromSelenium471451
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814534'
