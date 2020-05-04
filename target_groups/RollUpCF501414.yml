@@ -1,0 +1,7 @@
+type: target-group
+name: RollUpCF501414
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '797056'
