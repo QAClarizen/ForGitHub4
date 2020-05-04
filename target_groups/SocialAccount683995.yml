@@ -1,0 +1,7 @@
+type: target-group
+name: SocialAccount683995
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820886'
