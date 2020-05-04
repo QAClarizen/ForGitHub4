@@ -1,0 +1,7 @@
+type: target-group
+name: Genco Pura EU
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '804558'
