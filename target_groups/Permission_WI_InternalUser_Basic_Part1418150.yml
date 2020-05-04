@@ -1,0 +1,7 @@
+type: target-group
+name: Permission_WI_InternalUser_Basic_Part1418150
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814736'
