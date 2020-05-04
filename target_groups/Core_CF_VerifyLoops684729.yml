@@ -1,0 +1,7 @@
+type: target-group
+name: Core_CF_VerifyLoops684729
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814546'
