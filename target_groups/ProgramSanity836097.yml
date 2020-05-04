@@ -1,0 +1,7 @@
+type: target-group
+name: ProgramSanity836097
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818895'
