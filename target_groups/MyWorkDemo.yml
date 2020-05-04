@@ -1,0 +1,7 @@
+type: target-group
+name: MyWorkDemo
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '794583'
