@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_Core_Social_IE904456
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819162'
