@@ -1,0 +1,7 @@
+type: target-group
+name: FP_Cost_Calculations904461
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808821'
