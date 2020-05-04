@@ -1,0 +1,7 @@
+type: target-group
+name: SetActualStartDateApps306857
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '810610'
