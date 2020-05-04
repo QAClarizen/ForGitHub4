@@ -1,0 +1,7 @@
+type: target-group
+name: E2E_WR_MoveDocumentToParentProject95461
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820804'
