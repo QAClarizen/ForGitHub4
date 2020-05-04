@@ -1,0 +1,7 @@
+type: target-group
+name: Permission_Panel_Cases674004
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820996'
