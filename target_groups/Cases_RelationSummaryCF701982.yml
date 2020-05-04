@@ -1,0 +1,7 @@
+type: target-group
+name: Cases_RelationSummaryCF701982
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821257'
