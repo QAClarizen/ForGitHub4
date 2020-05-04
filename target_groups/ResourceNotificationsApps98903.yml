@@ -1,0 +1,7 @@
+type: target-group
+name: ResourceNotificationsApps98903
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '797432'
