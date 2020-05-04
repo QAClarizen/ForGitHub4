@@ -1,0 +1,7 @@
+type: target-group
+name: Portfolio349488
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '806386'
