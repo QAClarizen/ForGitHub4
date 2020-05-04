@@ -1,0 +1,7 @@
+type: target-group
+name: Task_32_WR_OnRelated28490
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820812'
