@@ -1,0 +1,7 @@
+type: target-group
+name: Cases_CreateNew_CF357920
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '811008'
