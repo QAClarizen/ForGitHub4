@@ -1,0 +1,7 @@
+type: target-group
+name: antonlohikaqa44
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819253'
