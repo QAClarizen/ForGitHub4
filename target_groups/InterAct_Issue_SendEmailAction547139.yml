@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_Issue_SendEmailAction547139
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821821'
