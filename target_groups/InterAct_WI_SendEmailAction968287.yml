@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_WI_SendEmailAction968287
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821696'
