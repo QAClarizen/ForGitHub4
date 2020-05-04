@@ -1,0 +1,7 @@
+type: target-group
+name: ShareWidgetFromSubSystemRibbon86651
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819309'
