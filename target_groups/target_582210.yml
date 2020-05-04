@@ -1,0 +1,7 @@
+type: target-group
+name: target_582210
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808332'
