@@ -1,0 +1,7 @@
+type: target-group
+name: LinkExisitingProject70791
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821533'
