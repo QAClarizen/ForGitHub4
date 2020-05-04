@@ -1,0 +1,7 @@
+type: target-group
+name: CustomObjectBR993071
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819840'
