@@ -1,0 +1,7 @@
+type: target-group
+name: CA_BugsScenarios_UpdateField_BID85279362137
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814681'
