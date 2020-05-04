@@ -1,0 +1,7 @@
+type: target-group
+name: OrganizationCalendar949082
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '805077'
