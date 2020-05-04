@@ -1,0 +1,7 @@
+type: target-group
+name: source_368911
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808327'
