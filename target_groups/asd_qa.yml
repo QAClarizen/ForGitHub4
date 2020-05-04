@@ -1,0 +1,7 @@
+type: target-group
+name: asd_qa
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '805612'
