@@ -1,0 +1,7 @@
+type: target-group
+name: Permission_Panel_Customer512421
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '822056'
