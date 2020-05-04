@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_General_SaveTriggeringEmailAction886595
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821733'
