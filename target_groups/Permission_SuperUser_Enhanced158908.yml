@@ -1,0 +1,7 @@
+type: target-group
+name: Permission_SuperUser_Enhanced158908
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '810454'
