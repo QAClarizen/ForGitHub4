@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_ConfirmationMessages337228
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808038'
