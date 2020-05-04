@@ -1,0 +1,7 @@
+type: target-group
+name: RL_VerifyLoadedColor934577
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '797038'
