@@ -1,0 +1,7 @@
+type: target-group
+name: RunAllSystemReportsWithRunTimeParam751197
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820133'
