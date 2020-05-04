@@ -1,0 +1,7 @@
+type: target-group
+name: Core_Social_Chrome666764
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '817381'
