@@ -1,0 +1,7 @@
+type: target-group
+name: ImportFromExcel381932
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '804187'
