@@ -1,0 +1,7 @@
+type: target-group
+name: UserAndDiscussionGroupsPermissions679352
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819417'
