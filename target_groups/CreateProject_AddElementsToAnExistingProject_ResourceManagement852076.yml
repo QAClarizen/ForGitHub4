@@ -1,0 +1,7 @@
+type: target-group
+name: CreateProject_AddElementsToAnExistingProject_ResourceManagement852076
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820311'
