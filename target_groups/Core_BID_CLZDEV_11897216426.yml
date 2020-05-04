@@ -1,0 +1,7 @@
+type: target-group
+name: Core_BID_CLZDEV_11897216426
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819145'
