@@ -1,0 +1,7 @@
+type: target-group
+name: TimeTrackingFilteringPart6428522
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821962'
