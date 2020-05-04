@@ -1,0 +1,7 @@
+type: target-group
+name: ReportProgressThroughMail827756
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819515'
