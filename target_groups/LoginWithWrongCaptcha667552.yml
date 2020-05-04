@@ -1,0 +1,7 @@
+type: target-group
+name: LoginWithWrongCaptcha667552
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819539'
