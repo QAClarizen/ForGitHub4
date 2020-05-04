@@ -1,0 +1,7 @@
+type: target-group
+name: Test8
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '812386'
