@@ -1,0 +1,7 @@
+type: target-group
+name: Permission_WI_ExternalUser_Group_Enhanced74026
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819796'
