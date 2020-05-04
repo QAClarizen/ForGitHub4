@@ -1,0 +1,7 @@
+type: target-group
+name: Cases_32_WR_OnRelated684311
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818429'
