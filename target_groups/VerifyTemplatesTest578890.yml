@@ -1,0 +1,7 @@
+type: target-group
+name: VerifyTemplatesTest578890
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814537'
