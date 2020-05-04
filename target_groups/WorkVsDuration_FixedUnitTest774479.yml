@@ -1,0 +1,7 @@
+type: target-group
+name: WorkVsDuration_FixedUnitTest774479
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819621'
