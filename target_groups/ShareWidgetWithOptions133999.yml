@@ -1,0 +1,7 @@
+type: target-group
+name: ShareWidgetWithOptions133999
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814569'
