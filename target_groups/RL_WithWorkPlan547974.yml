@@ -1,0 +1,7 @@
+type: target-group
+name: RL_WithWorkPlan547974
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '810483'
