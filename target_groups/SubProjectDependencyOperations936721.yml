@@ -1,0 +1,7 @@
+type: target-group
+name: SubProjectDependencyOperations936721
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '804937'
