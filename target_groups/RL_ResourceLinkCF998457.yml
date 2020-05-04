@@ -1,0 +1,7 @@
+type: target-group
+name: RL_ResourceLinkCF998457
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818449'
