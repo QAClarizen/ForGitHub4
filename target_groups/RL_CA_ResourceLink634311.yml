@@ -1,0 +1,7 @@
+type: target-group
+name: RL_CA_ResourceLink634311
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '812075'
