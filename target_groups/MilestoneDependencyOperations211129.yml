@@ -1,0 +1,7 @@
+type: target-group
+name: MilestoneDependencyOperations211129
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '815926'
