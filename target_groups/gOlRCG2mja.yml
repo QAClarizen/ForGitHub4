@@ -1,0 +1,7 @@
+type: target-group
+name: gOlRCG2mja
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820815'
