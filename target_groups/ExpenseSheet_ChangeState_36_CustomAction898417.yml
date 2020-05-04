@@ -1,0 +1,7 @@
+type: target-group
+name: ExpenseSheet_ChangeState_36_CustomAction898417
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820660'
