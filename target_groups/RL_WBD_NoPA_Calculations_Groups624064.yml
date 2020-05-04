@@ -1,0 +1,7 @@
+type: target-group
+name: RL_WBD_NoPA_Calculations_Groups624064
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '817798'
