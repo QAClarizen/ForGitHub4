@@ -1,0 +1,7 @@
+type: target-group
+name: CalendarRecalculation266149
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '810395'
