@@ -1,0 +1,7 @@
+type: target-group
+name: CreateTaskFromIssueApps300421
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818528'
