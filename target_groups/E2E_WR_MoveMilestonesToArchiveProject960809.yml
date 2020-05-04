@@ -1,0 +1,7 @@
+type: target-group
+name: E2E_WR_MoveMilestonesToArchiveProject960809
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820322'
