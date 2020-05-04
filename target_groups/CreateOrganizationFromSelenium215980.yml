@@ -1,0 +1,7 @@
+type: target-group
+name: CreateOrganizationFromSelenium215980
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819761'
