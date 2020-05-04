@@ -1,0 +1,7 @@
+type: target-group
+name: ConvertRequestToProjectApps532067
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808890'
