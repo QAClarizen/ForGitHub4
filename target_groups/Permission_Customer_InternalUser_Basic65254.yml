@@ -1,0 +1,7 @@
+type: target-group
+name: Permission_Customer_InternalUser_Basic65254
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '823105'
