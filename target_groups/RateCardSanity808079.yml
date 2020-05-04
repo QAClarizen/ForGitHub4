@@ -1,0 +1,7 @@
+type: target-group
+name: RateCardSanity808079
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '810427'
