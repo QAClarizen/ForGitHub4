@@ -1,0 +1,7 @@
+type: target-group
+name: ImportMsProject47568
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '804242'
