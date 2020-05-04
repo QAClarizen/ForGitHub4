@@ -1,0 +1,7 @@
+type: target-group
+name: ShareWidgetFromDrillDownRibbon708105
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '801470'
