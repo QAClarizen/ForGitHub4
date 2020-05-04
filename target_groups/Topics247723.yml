@@ -1,0 +1,7 @@
+type: target-group
+name: Topics247723
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820789'
