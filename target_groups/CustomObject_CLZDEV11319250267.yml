@@ -1,0 +1,7 @@
+type: target-group
+name: CustomObject_CLZDEV11319250267
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808888'
