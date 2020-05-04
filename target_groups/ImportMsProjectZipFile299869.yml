@@ -1,0 +1,7 @@
+type: target-group
+name: ImportMsProjectZipFile299869
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819159'
