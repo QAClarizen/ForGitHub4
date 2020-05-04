@@ -1,0 +1,7 @@
+type: target-group
+name: UpdateProjectWorkPolicyApps969314
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '797499'
