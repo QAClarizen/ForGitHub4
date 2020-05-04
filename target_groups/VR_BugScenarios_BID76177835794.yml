@@ -1,0 +1,7 @@
+type: target-group
+name: VR_BugScenarios_BID76177835794
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '809947'
