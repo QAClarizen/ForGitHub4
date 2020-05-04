@@ -1,0 +1,7 @@
+type: target-group
+name: Social_BugScenarios317130
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818830'
