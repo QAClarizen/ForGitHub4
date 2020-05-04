@@ -1,0 +1,7 @@
+type: target-group
+name: Portfolio QA Test
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '813294'
