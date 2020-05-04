@@ -1,0 +1,7 @@
+type: target-group
+name: ShareWidgetFromDrillDownContexualMenu577333
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '799157'
