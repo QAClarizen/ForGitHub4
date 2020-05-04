@@ -1,0 +1,7 @@
+type: target-group
+name: WI_ChangeState_36_CustomAction982502
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819617'
