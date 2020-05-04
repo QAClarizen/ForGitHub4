@@ -1,0 +1,7 @@
+type: target-group
+name: RL_WBD_Calculations_MultipleUsers910500
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '810481'
