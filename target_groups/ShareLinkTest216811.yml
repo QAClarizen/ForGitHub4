@@ -1,0 +1,7 @@
+type: target-group
+name: ShareLinkTest216811
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '813265'
