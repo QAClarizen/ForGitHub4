@@ -1,0 +1,7 @@
+type: target-group
+name: Core_BID106245875488
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821937'
