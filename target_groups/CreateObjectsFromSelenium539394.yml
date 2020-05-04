@@ -1,0 +1,7 @@
+type: target-group
+name: CreateObjectsFromSelenium539394
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '795651'
