@@ -1,0 +1,7 @@
+type: target-group
+name: s_20
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820454'
