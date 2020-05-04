@@ -1,0 +1,7 @@
+type: target-group
+name: Gantt_Sanity943001
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '813182'
