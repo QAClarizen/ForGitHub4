@@ -1,0 +1,7 @@
+type: target-group
+name: FP_BR_Functions_With_Fiscal802635
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819579'
