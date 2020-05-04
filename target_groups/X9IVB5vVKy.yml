@@ -1,0 +1,7 @@
+type: target-group
+name: X9IVB5vVKy
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821824'
