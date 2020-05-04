@@ -1,0 +1,7 @@
+type: target-group
+name: MeetingMinutesApps16827
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819825'
