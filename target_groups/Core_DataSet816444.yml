@@ -1,0 +1,7 @@
+type: target-group
+name: Core_DataSet816444
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '799134'
