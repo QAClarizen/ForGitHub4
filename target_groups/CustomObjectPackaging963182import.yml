@@ -1,0 +1,7 @@
+type: target-group
+name: CustomObjectPackaging963182import
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '796184'
