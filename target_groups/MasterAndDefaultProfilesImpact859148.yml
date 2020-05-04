@@ -1,0 +1,7 @@
+type: target-group
+name: MasterAndDefaultProfilesImpact859148
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '809982'
