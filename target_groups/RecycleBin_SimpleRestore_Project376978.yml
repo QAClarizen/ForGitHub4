@@ -1,0 +1,7 @@
+type: target-group
+name: RecycleBin_SimpleRestore_Project376978
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819867'
