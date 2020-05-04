@@ -1,0 +1,7 @@
+type: target-group
+name: AddEditDeleteCustomObject51375
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820254'
