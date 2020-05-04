@@ -1,0 +1,7 @@
+type: target-group
+name: CustomersTesting340247
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821026'
