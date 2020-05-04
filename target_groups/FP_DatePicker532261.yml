@@ -1,0 +1,7 @@
+type: target-group
+name: FP_DatePicker532261
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '823366'
