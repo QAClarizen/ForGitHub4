@@ -1,0 +1,7 @@
+type: target-group
+name: CreateDependency_SchedulingConflict_HandlingAlerts139023
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819834'
