@@ -1,0 +1,7 @@
+type: target-group
+name: ReplaceResource166730
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821031'
