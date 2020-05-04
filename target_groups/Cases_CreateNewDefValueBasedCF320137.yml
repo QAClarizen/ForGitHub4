@@ -1,0 +1,7 @@
+type: target-group
+name: Cases_CreateNewDefValueBasedCF320137
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820391'
