@@ -1,0 +1,7 @@
+type: target-group
+name: LayoutChrome134475
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818491'
