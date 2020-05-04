@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_General_UpdateFieldAction629075
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821691'
