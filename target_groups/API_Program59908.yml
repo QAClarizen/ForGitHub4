@@ -1,0 +1,7 @@
+type: target-group
+name: API_Program59908
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819345'
