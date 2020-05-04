@@ -1,0 +1,7 @@
+type: target-group
+name: RL_Module17699
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820845'
