@@ -1,0 +1,7 @@
+type: target-group
+name: Export2Excel711297
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820867'
