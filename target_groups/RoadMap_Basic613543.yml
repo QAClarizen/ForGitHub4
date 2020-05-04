@@ -1,0 +1,7 @@
+type: target-group
+name: RoadMap_Basic613543
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820838'
