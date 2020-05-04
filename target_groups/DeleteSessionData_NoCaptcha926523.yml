@@ -1,0 +1,7 @@
+type: target-group
+name: DeleteSessionData_NoCaptcha926523
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '797171'
