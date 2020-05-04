@@ -1,0 +1,7 @@
+type: target-group
+name: WR_BugScenarios_BID_35165_36751_3693548000
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '809969'
