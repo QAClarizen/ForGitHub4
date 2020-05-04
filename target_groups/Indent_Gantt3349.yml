@@ -1,0 +1,7 @@
+type: target-group
+name: Indent_Gantt3349
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819412'
