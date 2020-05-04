@@ -1,0 +1,7 @@
+type: target-group
+name: InterAct_CheckMailBoxes623468
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821716'
