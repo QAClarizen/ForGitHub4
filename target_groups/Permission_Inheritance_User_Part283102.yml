@@ -1,0 +1,7 @@
+type: target-group
+name: Permission_Inheritance_User_Part283102
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821555'
