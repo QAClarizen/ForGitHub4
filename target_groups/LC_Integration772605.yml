@@ -1,0 +1,7 @@
+type: target-group
+name: LC_Integration772605
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '803624'
