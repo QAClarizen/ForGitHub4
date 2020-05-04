@@ -1,0 +1,7 @@
+type: target-group
+name: VerifyBranding272711
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '815004'
