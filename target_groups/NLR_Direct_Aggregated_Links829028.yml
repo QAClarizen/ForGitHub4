@@ -1,0 +1,7 @@
+type: target-group
+name: NLR_Direct_Aggregated_Links829028
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '809930'
