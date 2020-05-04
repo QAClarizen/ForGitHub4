@@ -1,0 +1,7 @@
+type: target-group
+name: InviteTeam760350
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821436'
