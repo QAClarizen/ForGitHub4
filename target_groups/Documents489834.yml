@@ -1,0 +1,7 @@
+type: target-group
+name: Documents489834
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820761'
