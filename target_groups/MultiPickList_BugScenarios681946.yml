@@ -1,0 +1,7 @@
+type: target-group
+name: MultiPickList_BugScenarios681946
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '803939'
