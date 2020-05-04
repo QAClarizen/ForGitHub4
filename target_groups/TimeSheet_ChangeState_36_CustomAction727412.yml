@@ -1,0 +1,7 @@
+type: target-group
+name: TimeSheet_ChangeState_36_CustomAction727412
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820694'
