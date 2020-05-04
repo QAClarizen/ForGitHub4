@@ -1,0 +1,7 @@
+type: target-group
+name: ProfileOrganization85166
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '810423'
