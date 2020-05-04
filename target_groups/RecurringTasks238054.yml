@@ -1,0 +1,7 @@
+type: target-group
+name: RecurringTasks238054
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821256'
