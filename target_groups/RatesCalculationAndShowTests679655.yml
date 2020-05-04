@@ -1,0 +1,7 @@
+type: target-group
+name: RatesCalculationAndShowTests679655
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '812208'
