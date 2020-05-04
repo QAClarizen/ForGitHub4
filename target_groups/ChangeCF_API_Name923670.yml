@@ -1,0 +1,7 @@
+type: target-group
+name: ChangeCF_API_Name923670
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808400'
