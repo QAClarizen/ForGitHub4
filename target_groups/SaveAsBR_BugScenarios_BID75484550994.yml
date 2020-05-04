@@ -1,0 +1,7 @@
+type: target-group
+name: SaveAsBR_BugScenarios_BID75484550994
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '805960'
