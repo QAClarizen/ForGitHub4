@@ -1,0 +1,7 @@
+type: target-group
+name: Edit_System_Report_Part357014
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820939'
