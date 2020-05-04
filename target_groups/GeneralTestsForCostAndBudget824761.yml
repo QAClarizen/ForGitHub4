@@ -1,0 +1,7 @@
+type: target-group
+name: GeneralTestsForCostAndBudget824761
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '823428'
