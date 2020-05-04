@@ -1,0 +1,7 @@
+type: target-group
+name: E2E_PM_Send_Report673781
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819576'
