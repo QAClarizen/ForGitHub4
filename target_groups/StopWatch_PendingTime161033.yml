@@ -1,0 +1,7 @@
+type: target-group
+name: StopWatch_PendingTime161033
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819993'
