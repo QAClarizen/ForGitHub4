@@ -1,0 +1,7 @@
+type: target-group
+name: CaptchaShown_WrongLoginDifferentUser_NoCaptcha962488
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819443'
