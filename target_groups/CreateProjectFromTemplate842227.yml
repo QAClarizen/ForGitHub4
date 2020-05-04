@@ -1,0 +1,7 @@
+type: target-group
+name: CreateProjectFromTemplate842227
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '820732'
