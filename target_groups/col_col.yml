@@ -1,0 +1,7 @@
+type: target-group
+name: col_col
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '801267'
