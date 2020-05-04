@@ -1,0 +1,7 @@
+type: target-group
+name: LandingPageFirefox762839
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821528'
