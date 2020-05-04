@@ -1,0 +1,7 @@
+type: target-group
+name: TodayPanelChecks465576
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '821460'
