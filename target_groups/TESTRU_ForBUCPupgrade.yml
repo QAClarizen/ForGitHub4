@@ -1,0 +1,7 @@
+type: target-group
+name: TESTRU_ForBUCPupgrade
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '819733'
