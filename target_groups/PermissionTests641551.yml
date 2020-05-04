@@ -1,0 +1,7 @@
+type: target-group
+name: PermissionTests641551
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '813489'
