@@ -1,0 +1,7 @@
+type: target-group
+name: CloseCalendarExceptionValidation923840
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814818'
