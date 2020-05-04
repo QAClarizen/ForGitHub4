@@ -1,0 +1,7 @@
+type: target-group
+name: FP_GridFunctionality461840
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '796267'
