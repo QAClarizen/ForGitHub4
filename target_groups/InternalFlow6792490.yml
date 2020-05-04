@@ -1,0 +1,7 @@
+type: target-group
+name: InternalFlow6792490
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '815861'
